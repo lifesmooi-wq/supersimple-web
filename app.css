@@ -1,6 +1,6 @@
 :root {
     background-color: #ecf5ff;
-    font-size: 62.5%;
+    font-size: 80%;
 }
 
 *{
@@ -42,12 +42,12 @@ h3 {
 
 img{
     width: 250px;
-    height: 90px;
+    height: 50px;
 }
 
 img{
     width: 250px;
-    height: 90px;
+    height: 250px;
 }
 
 .container {
